@@ -29,15 +29,6 @@ span {
   text-decoration: underline;
 }
 
-hr {
-  border-style: None;
-  border-top-style: dotted;
-  border-color: #EAF6F6;
-  border-width: 7px;
-  height: 5px;
-  width: 4%
-}
-
 a {
   color: #1A374D;
   font-family: 'Montserrat', sans-serif;
